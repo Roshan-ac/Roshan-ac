@@ -18,11 +18,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.reshamacharya.com.np)
+[![Website](./img/globe-light.svg)](https://www.reshamacharya.com.np)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/cybergeek)
+[![Youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![Facebook](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 
 
 
@@ -35,14 +35,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
-- [How To Launch an NFT Collection on Ethereum!! &lpar;Updated Minting dApp&rpar;](https://www.youtube.com/watch?v=-EB2TTQxSWc)
-- [Web3 Discussion Panel featuring Hashlips, codeSTACKr, plus special guests!](https://www.youtube.com/watch?v=UMK_6D7ApSE)
-- [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
+- [How To Make A Bootable USB Drive of Windows 10 ? in Easiest way!!!](https://youtu.be/E4EsR1uasK4)
+- [How to Port Forward using Ngrok Server in 2022 | Port Forward without Router | Port Forward Ngrok;](https://youtu.be/iBs4I6C094c)
+- [How hackers gain access to other devices using metasploit framework ?!](https://youtu.be/oOoT79-una8)
+- [Hack any wife passwords using wireless adapter with Kali Linux!!](https://youtu.be/TucbtraSB-o)
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/cybergeek)
+➡️ [more videos...](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured)
 
 ---
 
@@ -58,6 +58,6 @@
 </details>
 
 [website]: https://www.reshamacharya.com.np
-[youtube]: https://youtube.com/cybergeek
+[youtube]: https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured
 
 
