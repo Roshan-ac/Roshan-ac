@@ -18,11 +18,11 @@
 
 ### Connect with me:
 
-[![Website](./img/globe-light.svg)](https://www.reshamacharya.com.np)
+[![Website](./img/website.png)](https://www.reshamacharya.com.np)
 &nbsp;&nbsp;
-[![Youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured)
+[![Youtube](./img/youtube.png)](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured)
 &nbsp;&nbsp;
-[![Facebook](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![Facebook](./img/facebook.png)](https://twitter.com/codestackr#gh-dark-mode-only)
 
 
 
