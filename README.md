@@ -22,7 +22,7 @@
 &nbsp;&nbsp;
 [![Youtube](./img/youtube.png)](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ/featured)
 &nbsp;&nbsp;
-[![Facebook](./img/facebook.png)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![Facebook](./img/facebook.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 
 
 
@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Resham Acharya GitHub Stats" src="https://www.reshamacharya.com.np" />
+  <img align="left" alt="Resham Acharya GitHub Stats" src='' />
 
 </details>
 
