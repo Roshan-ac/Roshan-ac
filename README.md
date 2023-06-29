@@ -14,15 +14,6 @@
 - ⚡ Fun fact: I love to draw and play guitar / ukeleli
 
 
-### Connect with me:
-
-[![Website](./img/website.svg)](https://www.reshamacharya.com.np)
-&nbsp;&nbsp;
-[![Youtube](./img/youtube.svg)](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ
-&nbsp;&nbsp;
-[![Facebook](./img/facebook.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-
-
 
 
 <br />
