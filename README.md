@@ -16,10 +16,6 @@
 <br/>
 <br/>
 
-##Connect Me
-
-[![YouTube Channel Subscribers](https://www.youtube.com/channel/UC_1mF6oERItz1UUrA0RzOdQ)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.reshamacharya.com.np/)
 
 
 
